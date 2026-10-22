@@ -1,12 +1,12 @@
 # 🚀 CareerCraft E-Portfolio | Professional Agile Project Record
-> **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)[cite: 2]  
-> **Author / Product Owner:** Makuks (Cape Peninsula University of Technology - DPICTA / PRP370S)[cite: 1, 3]  
-> **Execution Period:** July 2026 – October 2026[cite: 2]
+> **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
+> **Author / Product Owner:** Makuks (Cape Peninsula University of Technology - DPICTA / PRP370S)  
+> **Execution Period:** July 2026 – October 2026
 
 ---
 
 ## 🌟 Executive Summary & Introduction
-Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal designed specifically to bridge the gap between education and employment for South African students and graduates[cite: 2]. This repository documents our complete project lifecycle, adhering strictly to Agile methodologies, rigorous software engineering practices, and CPUT assessment standards[cite: 3, 4].
+Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal designed specifically to bridge the gap between education and employment for South African students and graduates. This repository documents our complete project lifecycle, adhering strictly to Agile methodologies, rigorous software engineering practices, and CPUT assessment standards.
 
 ---
 
@@ -22,8 +22,8 @@ Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an
 ## 1. 🤝 Agile Team Charter
 
 ### 🎯 Project Overview & Vision
-* **Vision Statement:** To empower South African students and young professionals by providing an all-in-one digital career engineering portal that builds professional profiles, tracks career progress, and connects users with tailored opportunities[cite: 2].
-* **Mission Statement:** Simplify career development, bridge the gap between education and employment, and give every South African job seeker the precision tools needed to present their professional story with confidence[cite: 2].
+* **Vision Statement:** To empower South African students and young professionals by providing an all-in-one digital career engineering portal that builds professional profiles, tracks career progress, and connects users with tailored opportunities.
+* **Mission Statement:** Simplify career development, bridge the gap between education and employment, and give every South African job seeker the precision tools needed to present their professional story with confidence.
 
 ### ⚖️ Core Team Operating Norms & Values
 1. **Radical Transparency:** All project artifacts, code versions, and documentation are shared openly. "No surprises"—blockers or technical bottlenecks are flagged immediately during stand-ups.
@@ -34,11 +34,11 @@ Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an
 ### 👥 Personnel Roles & RACI Matrix
 | Project Task | Product Owner (Makuks) | Lead Frontend Dev | UI/UX & Branding | QA & Community Liaison |
 | :--- | :--- | :--- | :--- | :--- |
-| **Project Plan & Charter** | A / R[cite: 1, 2] | C[cite: 1, 2] | C[cite: 1, 2] | I[cite: 1, 2] |
-| **UI Layouts & Netlify Deployment** | A[cite: 2] | R[cite: 2] | C[cite: 2] | I[cite: 2] |
-| **User Profile & Authentication** | A[cite: 2] | R[cite: 2] | I[cite: 2] | C[cite: 2] |
-| **Investor Pitch & Deliverables** | A / R[cite: 2] | C[cite: 2] | R[cite: 2] | C[cite: 2] |
-| **MVP Student Testing & Validation** | A[cite: 2] | I[cite: 2] | I[cite: 2] | R[cite: 2] |
+| **Project Plan & Charter** | A / R | C | C | I |
+| **UI Layouts & Netlify Deployment** | A | R | C | I |
+| **User Profile & Authentication** | A | R | I | C |
+| **Investor Pitch & Deliverables** | A / R | C | R | C |
+| **MVP Student Testing & Validation** | A | I | I | R |
 
 *(Role Legend: A = Accountable, R = Responsible, C = Consulted, I = Informed)*
 
@@ -53,32 +53,32 @@ Establishing this charter early in the semester provided essential structure for
 ## 2. 📝 User Stories and Tasks
 
 ### 📋 Epic 1: Core Portal Architecture & Hosting Setup
-* **User Story 1.1:** As a site visitor, I want to land on a fast, responsive, and professionally branded homepage so that I immediately understand CareerCraft's value proposition[cite: 2].
-  * **Acceptance Criteria:** Landing page loads in under 2 seconds; clear call-to-action buttons for signing up and comparing pricing[cite: 2].
+* **User Story 1.1:** As a site visitor, I want to land on a fast, responsive, and professionally branded homepage so that I immediately understand CareerCraft's value proposition.
+  * **Acceptance Criteria:** Landing page loads in under 2 seconds; clear call-to-action buttons for signing up and comparing pricing.
   * **Tasks:**
-    * Develop semantic HTML5 / CSS layout with Tailwind styling[cite: 2].
-    * Configure continuous deployment pipeline targeting Netlify (`careercraft-sa.netlify.app`)[cite: 2].
-    * Implement clean product logo and responsive navigation menus[cite: 2].
+    * Develop semantic HTML5 / CSS layout with Tailwind styling.
+    * Configure continuous deployment pipeline targeting Netlify (`careercraft-sa.netlify.app`).
+    * Implement clean product logo and responsive navigation menus.
 
-* **User Story 1.2:** As a new user, I want to sign up securely with my credentials so that I can establish a private workspace[cite: 2].
-  * **Acceptance Criteria:** Email format and password strength validation; secure token storage[cite: 2].
+* **User Story 1.2:** As a new user, I want to sign up securely with my credentials so that I can establish a private workspace.
+  * **Acceptance Criteria:** Email format and password strength validation; secure token storage.
   * **Tasks:**
-    * Build frontend forms for `/signup` and `/login` routes[cite: 2].
-    * Establish backend authentication endpoints and database linkages[cite: 2].
+    * Build frontend forms for `/signup` and `/login` routes.
+    * Establish backend authentication endpoints and database linkages.
 
 ### 📋 Epic 2: Profile Management & Membership Tiers
-* **User Story 2.1:** As a registered user, I want to edit my professional profile (`/profile`) so that my career goals, education history, and core skills are accurately stored[cite: 2].
-  * **Acceptance Criteria:** Form inputs retain state across sessions; successful save confirmation message displayed to the user[cite: 2].
+* **User Story 2.1:** As a registered user, I want to edit my professional profile (`/profile`) so that my career goals, education history, and core skills are accurately stored.
+  * **Acceptance Criteria:** Form inputs retain state across sessions; successful save confirmation message displayed to the user.
   * **Tasks:**
-    * Design `/profile` form UI supporting rich text entries[cite: 2].
-    * Implement data persistence routines to connect form inputs to cloud storage[cite: 2].
-    * Handle edge cases for incomplete profile fields[cite: 2].
+    * Design `/profile` form UI supporting rich text entries.
+    * Implement data persistence routines to connect form inputs to cloud storage.
+    * Handle edge cases for incomplete profile fields.
 
-* **User Story 2.2:** As a student user, I want to compare membership options (Free, Starter, Pro) so that I can select the appropriate level of career support[cite: 2].
-  * **Acceptance Criteria:** Pricing page (`/pricing`) clearly outlines features, limitations, and upgrade paths[cite: 2].
+* **User Story 2.2:** As a student user, I want to compare membership options (Free, Starter, Pro) so that I can select the appropriate level of career support.
+  * **Acceptance Criteria:** Pricing page (`/pricing`) clearly outlines features, limitations, and upgrade paths.
   * **Tasks:**
-    * Code responsive pricing tier comparison cards[cite: 2].
-    * Link tier selection buttons directly to user upgrade onboarding workflows[cite: 2].
+    * Code responsive pricing tier comparison cards.
+    * Link tier selection buttons directly to user upgrade onboarding workflows.
 
 ### 🔍 Critical Reflection on User Stories
 Decomposing the platform into precise user stories with testable acceptance criteria kept development focused. Rather than attempting to build all features simultaneously, prioritizing core authentication and profile persistence first ensured our MVP remained stable and functional before moving on to advanced modules.
@@ -92,14 +92,14 @@ Decomposing the platform into precise user stories with testable acceptance crit
 
 | Backlog ID | Feature / Epic Description | Priority | Current Status | Story Points | Target Milestone |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **PB-01** | Landing page responsive design & Netlify deployment[cite: 2] | High[cite: 2] | Completed[cite: 2] | 5[cite: 2] | July 2026[cite: 2] |
-| **PB-02** | Investor-style pitch deck preparation & delivery[cite: 2] | High[cite: 2] | Completed[cite: 2] | 5[cite: 2] | Mid-July 2026[cite: 2] |
-| **PB-03** | User Sign-Up & Login authentication flows (`/signup`, `/login`)[cite: 2] | High[cite: 2] | Completed[cite: 2] | 8[cite: 2] | Late-July 2026[cite: 2] |
-| **PB-04** | Pricing page & membership tier comparison (`/pricing`)[cite: 2] | Medium[cite: 2] | Completed[cite: 2] | 3[cite: 2] | August 2026[cite: 2] |
-| **PB-05** | User Profile data persistence & form state handling (`/profile`)[cite: 2] | High[cite: 2] | In Progress[cite: 2] | 8[cite: 2] | August-September 2026[cite: 2] |
-| **PB-06** | MVP validation testing with real student cohorts[cite: 2] | Medium[cite: 2] | In Progress[cite: 2] | 8[cite: 2] | September 2026[cite: 2] |
-| **PB-07** | Advanced CV template builder & export module[cite: 2] | High[cite: 2] | To Do[cite: 2] | 13[cite: 2] | October 2026[cite: 2] |
-| **PB-08** | Institutional partner dashboard integration[cite: 2] | Low[cite: 2] | To Do[cite: 2] | 8[cite: 2] | Post-October 2026[cite: 2] |
+| **PB-01** | Landing page responsive design & Netlify deployment | High | Completed | 5 | July 2026 |
+| **PB-02** | Investor-style pitch deck preparation & delivery | High | Completed | 5 | Mid-July 2026 |
+| **PB-03** | User Sign-Up & Login authentication flows (`/signup`, `/login`) | High | Completed | 8 | Late-July 2026 |
+| **PB-04** | Pricing page & membership tier comparison (`/pricing`) | Medium | Completed | 3 | August 2026 |
+| **PB-05** | User Profile data persistence & form state handling (`/profile`) | High | In Progress | 8 | August-September 2026 |
+| **PB-06** | MVP validation testing with real student cohorts | Medium | In Progress | 8 | September 2026 |
+| **PB-07** | Advanced CV template builder & export module | High | To Do | 13 | October 2026 |
+| **PB-08** | Institutional partner dashboard integration | Low | To Do | 8 | Post-October 2026 |
 
 ### 🔍 Critical Reflection on Product Backlog
 Managing the backlog as a living document allowed us to adapt effectively to changing academic requirements and user feedback. For instance, prioritizing MVP validation testing (PB-06) after the July pitch enabled us to gather real-world student insights that directly shaped our October CV builder roadmap.
@@ -116,11 +116,11 @@ Managing the backlog as a living document allowed us to adapt effectively to cha
 
 | Task ID | Task Description | Assignee | Status | Effort Estimate |
 | :--- | :--- | :--- | :--- | :--- |
-| **T-201** | Refine `/profile` form input state handling and error alerts[cite: 2] | Frontend Team[cite: 2] | In Progress[cite: 2] | 3 pts[cite: 2] |
-| **T-202** | Conduct session persistence tests across multiple browser instances[cite: 2] | QA / Testing[cite: 2] | To Do[cite: 2] | 2 pts[cite: 2] |
-| **T-203** | Aggregate student feedback from September MVP testing sessions[cite: 2] | Community Liaison[cite: 2] | Completed[cite: 2] | 5 pts[cite: 2] |
-| **T-204** | Audit Netlify deployment headers and security configurations[cite: 2] | DevOps[cite: 2] | Completed[cite: 2] | 1 pt[cite: 2] |
-| **T-205** | Outline database schema requirements for the CV builder module[cite: 2] | Backend Dev[cite: 2] | To Do[cite: 2] | 5 pts[cite: 2] |
+| **T-201** | Refine `/profile` form input state handling and error alerts | Frontend Team | In Progress | 3 pts |
+| **T-202** | Conduct session persistence tests across multiple browser instances | QA / Testing | To Do | 2 pts |
+| **T-203** | Aggregate student feedback from September MVP testing sessions | Community Liaison | Completed | 5 pts |
+| **T-204** | Audit Netlify deployment headers and security configurations | DevOps | Completed | 1 pt |
+| **T-205** | Outline database schema requirements for the CV builder module | Backend Dev | To Do | 5 pts |
 
 ### 🔍 Critical Reflection on Sprint Backlog
 Time-boxing our work into two-week iterations maintained continuous momentum. Breaking large epic features into manageable 1-to-5-point tasks ensured clear accountability and allowed us to track velocity accurately across busy university semesters.
@@ -134,24 +134,24 @@ Time-boxing our work into two-week iterations maintained continuous momentum. Br
 
 ### 🗓️ Phase 1: Pitch Week & Initial Deliverable Push (Mid-July 2026)
 * **Date: 14 July 2026 (Tuesday)**
-  * **Completed:** Facilitated sprint planning for pitch week; reviewed the 16-slide investor deck structure (problem, market, business model, financials) with Livhuwani; confirmed team speaking roles[cite: 2].
-  * **Plan:** Draft speaker notes and talking points for personal presentation sections; finalize rehearsal schedules[cite: 2].
-  * **Impediments & Resolution:** Initial lack of advanced design tools for a polished PowerPoint aesthetic; resolved by consulting a senior 4th-year IT student for slide design tips[cite: 2].
+  * **Completed:** Facilitated sprint planning for pitch week; reviewed the 16-slide investor deck structure (problem, market, business model, financials) with Livhuwani; confirmed team speaking roles.
+  * **Plan:** Draft speaker notes and talking points for personal presentation sections; finalize rehearsal schedules.
+  * **Impediments & Resolution:** Initial lack of advanced design tools for a polished PowerPoint aesthetic; resolved by consulting a senior 4th-year IT student for slide design tips.
 
 * **Date: 15 July 2026 (Wednesday)**
-  * **Completed:** Successfully delivered the CareerCraft investor-style pitch to the assessment panel (presented by Lwandile at 14:30) with full team backing on timing cues and slide checks[cite: 2].
-  * **Plan:** Analyze panel feedback to identify gaps in Deliverable 2; initiate secondary competitor validation research[cite: 2].
-  * **Impediments & Resolution:** Home network instability during the online presentation session; mitigated by relocating to the campus IT lab for a reliable connection[cite: 2].
+  * **Completed:** Successfully delivered the CareerCraft investor-style pitch to the assessment panel (presented by Lwandile at 14:30) with full team backing on timing cues and slide checks.
+  * **Plan:** Analyze panel feedback to identify gaps in Deliverable 2; initiate secondary competitor validation research.
+  * **Impediments & Resolution:** Home network instability during the online presentation session; mitigated by relocating to the campus IT lab for a reliable connection.
 
 * **Date: 16 July 2026 (Thursday)**
-  * **Completed:** Reviewed formal panel feedback; initiated deep-dive research into South African youth unemployment statistics and competing career-guidance platforms[cite: 2].
-  * **Plan:** Verify market opportunity statistics; benchmark CareerCraft against existing solutions to strengthen the business plan revision[cite: 2].
-  * **Impediments & Resolution:** Encountered paywalls and outdated datasets when searching for specific employment figures, requiring extra verification steps[cite: 2].
+  * **Completed:** Reviewed formal panel feedback; initiated deep-dive research into South African youth unemployment statistics and competing career-guidance platforms.
+  * **Plan:** Verify market opportunity statistics; benchmark CareerCraft against existing solutions to strengthen the business plan revision.
+  * **Impediments & Resolution:** Encountered paywalls and outdated datasets when searching for specific employment figures, requiring extra verification steps.
 
 * **Date: 17 July 2026 (Friday)**
-  * **Completed:** Consolidated weekly research findings into formal notes for the Deliverable 2 revision; hosted a team retrospective to analyze pitch strengths and areas for workflow refinement[cite: 2].
-  * **Plan:** Update the product backlog with follow-up MVP validation testing items; await official grading feedback from the lecture panel[cite: 2].
-  * **Impediments & Resolution:** None pending official assessment scores[cite: 2].
+  * **Completed:** Consolidated weekly research findings into formal notes for the Deliverable 2 revision; hosted a team retrospective to analyze pitch strengths and areas for workflow refinement.
+  * **Plan:** Update the product backlog with follow-up MVP validation testing items; await official grading feedback from the lecture panel.
+  * **Impediments & Resolution:** None pending official assessment scores.
 
 ### 🗓️ Phase 2: MVP Validation & Feature Expansion (August – September 2026)
 * **Sprint Review & Retrospective Highlights:**
@@ -161,9 +161,9 @@ Time-boxing our work into two-week iterations maintained continuous momentum. Br
 
 ### 🗓️ Phase 3: Final Polish & Portfolio Consolidation (October 2026)
 * **Status Review:**
-  * Netlify deployment operating stably at `careercraft-sa.netlify.app`[cite: 2].
+  * Netlify deployment operating stably at `careercraft-sa.netlify.app`.
   * Core navigation, pricing comparisons, and authentication workflows fully operational.
-  * Finalized documentation and structured markdown files for GitHub Pages submission to meet CPUT PRP370S requirements[cite: 3].
+  * Finalized documentation and structured markdown files for GitHub Pages submission to meet CPUT PRP370S requirements.
 
 ### 🔍 Overall Logbook Reflection
 Maintaining this chronological logbook transformed daily challenges—such as connectivity glitches during online presentations or research paywalls—into valuable learning opportunities. Documenting our retrospectives ensured that our team continuously adapted its processes, resulting in a robust, production-ready portfolio.
