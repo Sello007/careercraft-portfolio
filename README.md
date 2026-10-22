@@ -1,4 +1,4 @@
-# 🚀 CareerCraft E-Portfolio | Comprehensive Professional Agile Record
+[# 🚀 CareerCraft E-Portfolio |
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
 > **Author / Product Owner:** Makuks (Cape Peninsula University of Technology - DPICTA / PRP370S)  
 > **Execution Period:** July 2026 – October 2026
@@ -169,3 +169,4 @@ Maintaining this chronological logbook transformed daily challenges—such as co
 
 ---
 *© 2026 CareerCraft South Africa & Cape Peninsula University of Technology (CPUT). Professional Academic Portfolio.*
+](https://canva.link/m7q8jknwttzfiiu)
