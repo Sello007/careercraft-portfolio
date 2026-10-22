@@ -1,6 +1,3 @@
-git add README.md
-git commit -m "Fix markdown table line breaks"
-git push origin main
  🚀 CareerCraft E-Portfolio 
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
 > **Author / Product Owner:** Makuks (Cape Peninsula University of Technology - DPICTA / PRP370S)  
@@ -38,9 +35,13 @@ Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an
 | Project Task | Product Owner (Makuks) | Lead Frontend Dev | UI/UX & Branding | QA & Community Liaison |
 | :--- | :--- | :--- | :--- | :--- |
 | **Project Plan & Charter** | A / R | C | C | I |
+
 | **UI Layouts & Netlify Deployment** | A | R | C | I |
+
 | **User Profile & Authentication** | A | R | I | C |
+
 | **Investor Pitch & Deliverables** | A / R | C | R | C |
+
 | **MVP Student Testing & Validation** | A | I | I | R |
 
 *(Role Legend: A = Accountable, R = Responsible, C = Consulted, I = Informed)*
