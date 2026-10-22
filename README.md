@@ -1,4 +1,7 @@
-[# 🚀 CareerCraft E-Portfolio |
+git add README.md
+git commit -m "Fix markdown table line breaks"
+git push origin main
+ 🚀 CareerCraft E-Portfolio 
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
 > **Author / Product Owner:** Makuks (Cape Peninsula University of Technology - DPICTA / PRP370S)  
 > **Execution Period:** July 2026 – October 2026
