@@ -1,15 +1,15 @@
-# 🚀 CareerCraft E-Portfolio | Comprehensive Professional Agile Project Record
+# 🚀 CareerCraft E-Portfolio 
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
 > **Author / Agile Lead:** Sello Makunyane (CPUT - DPICTA / PRP370S)  
 > **Execution Period:** July 2026 – October 2026  
-> **Repository Owner:** Catalyst Youth Innovation Team  
+> **Repository Owner:** Sello007  
 
 ---
 
 ## 🌟 Executive Summary & Project Introduction
 Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal and AI-powered career ecosystem designed specifically to bridge the gap between academic graduation and professional employment for South African students and graduates. 
 
-This repository documents our complete project lifecycle, adhering strictly to Agile/Scrum methodologies, software engineering best practices, and Cape Peninsula University of Technology (CPUT) PRP370S assessment requirements. CareerCraft is not merely a document generator; it is a full-suite career operating system that eliminates career evidence fragmentation, elevates candidate visibility with local Applicant Tracking Systems (ATS), and scales university career services.
+This repository documents our complete project lifecycle, adhering strictly to Agile/Scrum methodologies, software engineering best practices. CareerCraft is not merely a document generator; it is a full-suite career operating system that eliminates career evidence fragmentation, elevates candidate visibility with local Applicant Tracking Systems (ATS), and scales university career services.
 
 ---
 
@@ -172,36 +172,40 @@ CareerCraft is seeking **R500,000 in Seed Funding** to scale from a validated MV
 
 ---
 
-## 11. 📖 Agile Logbook (July – October 2026 Chronological Record)
+## 11. 📖 Agile Logbook 
 
-### 🗓️ Phase 1: Pitch Deck & Deliverable Push (14–17 July 2026)
-* **14 July 2026 (Tuesday):** Facilitated sprint planning; reviewed 16-slide investor deck structure with Livhuwani; assigned presentation section ownership. *Impediment:* Lacked slide design skills; consulted a senior 4th-year IT student for design guidance.
-* **15 July 2026 (Wednesday):** Delivered investor pitch to panel at 14:30 (presented by Lwandile with team support). *Impediment:* Home network instability forced team to use campus IT labs.
-* **16 July 2026 (Thursday):** Analyzed panel feedback; initiated research on South African youth unemployment metrics. *Impediment:* Research paywalls slowed data verification.
-* **17 July 2026 (Friday):** Consolidated research notes for Deliverable 2; conducted retrospective on pitch delivery.
+### 🗓️ Phase 1: Pitch Deck & Deliverable Push 
+*Facilitated sprint planning; reviewed 16-slide investor deck structure with Livhuwani; assigned presentation section ownership. *Impediment:* Lacked slide design skills; consulted a senior 4th-year IT student for design guidance.
+*Delivered investor pitch to panel at 14:30 (presented by Lwandile with team support). *Impediment:* Home network instability forced team to use campus IT labs.
+Analyzed panel feedback; initiated research on South African youth unemployment metrics. *Impediment:* Research paywalls slowed data verification.
+*Consolidated research notes for Deliverable 2; conducted retrospective on pitch delivery.
 
-### 🗓️ Phase 2: Backlog Refinement & Trello Setup (21–24 July 2026)
-* **21–24 July 2026:** Met with Livhuwani, Lerato, and Lwandile to refine Trello backlogs based on lecturer feedback. Reorganized user stories, updated task priorities, and confirmed ownership assignments across the team.
+### 🗓️ Phase 2: Backlog Refinement & Trello Setup 
+*Met with Livhuwani, Lerato, and Lwandile to refine Trello backlogs based on lecturer feedback. Reorganized user stories, updated task priorities, and confirmed ownership assignments across the team.
 
-### 🗓️ Phase 3: Prototyping & Accessible Redesign (28–31 July & 4–7 August 2026)
-* **29 July 2026:** Presented initial dark-themed Figma prototype to lecturer. Received feedback that contrast was too dark and hard to read.
-* **30 July – 4 August 2026:** Overhauled UI palette to a bright, accessible color scheme. Designed official brand logo, added Free Tier section, updated GitHub linkages, and authored comprehensive Brand Guidelines.
+### 🗓️ Phase 3: Prototyping & Accessible Redesign 
+*Presented initial dark-themed Figma prototype to lecturer. Received feedback that contrast was too dark and hard to read.
+*Overhauled UI palette to a bright, accessible color scheme. Designed official brand logo, added Free Tier section, updated GitHub linkages, and authored comprehensive Brand Guidelines.
 
 ---
 
 ## 12. 📸 Evidence & Screenshots Gallery
 
-* **Figure 12.1:** Live Web Application Deployment (`careercraft-sa.netlify.app`)  
-  `![Netlify Live App](assets/screenshots/netlify-deployment.png)`
+* **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
+  > `![CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png)`  
+  > *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
 
-* **Figure 12.2:** Trello Product Backlog & Research Sprint Setup  
-  `![Trello Board](assets/screenshots/trello-backlog.png)`
+* **Figure 12.2:** Trello Product Backlog Management & Research Card  
+  > `![Trello Product Backlog](assets/screenshots/trello-product-backlog.png)`  
+  > *Demonstrates agile backlog grooming, task checklists, and research card management for South African job market trends.*
 
-* **Figure 12.3:** Bright Accessible Figma UI & Brand Guidelines Prototype  
-  `![Figma Design](assets/screenshots/figma-bright-prototype.png)`
+* **Figure 12.3:** Low-Fidelity UI Wireframes  
+  > `![Low-Fidelity Wireframes](assets/screenshots/low-fi-wireframes.png)`  
+  > *Structural wireframe planning for user onboarding, profile setup, marketplace/portal navigation, and account settings.*
 
-* **Figure 12.4:** Published GitHub Pages Documentation View  
-  `![GitHub Pages](assets/screenshots/github-pages-live.png)`
+* **Figure 12.4:** High-Fidelity Mobile UI App Flow  
+  > `![High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png)`  
+  > *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
 
 ---
 *© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team. Cape Peninsula University of Technology (CPUT).*
