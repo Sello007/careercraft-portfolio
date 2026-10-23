@@ -195,19 +195,19 @@ Overhauled UI palette to a bright, accessible color scheme. Designed official br
 ## 12. 📸 Evidence & Screenshots Gallery
 
 **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
-<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/careercraft-landing-page.png" alt="CareerCraft Landing Page" width="100%">  
+![CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png)  
 *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
 
 **Figure 12.2:** Trello Product Backlog Management & Research Card  
-<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/trello-product-backlog.png" alt="Trello Product Backlog" width="100%">  
+![Trello Product Backlog](assets/screenshots/trello-product-backlog.png)  
 *Demonstrates agile backlog grooming, task checklists, and research card management for South African job market trends.*
 
 **Figure 12.3:** Low-Fidelity UI Wireframes  
-<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/low-fi-wireframes.png" alt="Low-Fidelity Wireframes" width="100%">  
+![Low-Fidelity Wireframes](assets/screenshots/low-fi-wireframes.png)  
 *Structural wireframe planning for user onboarding, profile setup, marketplace/portal navigation, and account settings.*
 
 **Figure 12.4:** High-Fidelity Mobile UI App Flow  
-<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/high-fi-mobile-screens.png" alt="High-Fidelity Mobile Screens" width="100%">  
+![High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png)  
 *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
 
 ---
