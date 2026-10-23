@@ -175,36 +175,39 @@ CareerCraft is seeking **R500,000 in Seed Funding** to scale from a validated MV
 ## 11. 📖 Agile Logbook 
 
 ### 🗓️ Phase 1: Pitch Deck & Deliverable Push 
-*Facilitated sprint planning; reviewed 16-slide investor deck structure with Livhuwani; assigned presentation section ownership. *Impediment:* Lacked slide design skills; consulted a senior 4th-year IT student for design guidance.
-*Delivered investor pitch to panel at 14:30 (presented by Lwandile with team support). *Impediment:* Home network instability forced team to use campus IT labs.
+Facilitated sprint planning; reviewed 16-slide investor deck structure with Livhuwani; assigned presentation section ownership. *Impediment:* Lacked slide design skills; consulted a senior 4th-year IT student for design guidance.
+
+Delivered investor pitch to panel at 14:30 (presented by Lwandile with team support). *Impediment:* Home network instability forced team to use campus IT labs.
 Analyzed panel feedback; initiated research on South African youth unemployment metrics. *Impediment:* Research paywalls slowed data verification.
-*Consolidated research notes for Deliverable 2; conducted retrospective on pitch delivery.
+
+Consolidated research notes for Deliverable 2; conducted retrospective on pitch delivery.
 
 ### 🗓️ Phase 2: Backlog Refinement & Trello Setup 
-*Met with Livhuwani, Lerato, and Lwandile to refine Trello backlogs based on lecturer feedback. Reorganized user stories, updated task priorities, and confirmed ownership assignments across the team.
+Met with Livhuwani, Lerato, and Lwandile to refine Trello backlogs based on lecturer feedback. Reorganized user stories, updated task priorities, and confirmed ownership assignments across the team.
 
 ### 🗓️ Phase 3: Prototyping & Accessible Redesign 
-*Presented initial dark-themed Figma prototype to lecturer. Received feedback that contrast was too dark and hard to read.
-*Overhauled UI palette to a bright, accessible color scheme. Designed official brand logo, added Free Tier section, updated GitHub linkages, and authored comprehensive Brand Guidelines.
+Presented initial dark-themed Figma prototype to lecturer. Received feedback that contrast was too dark and hard to read.
+
+Overhauled UI palette to a bright, accessible color scheme. Designed official brand logo, added Free Tier section, updated GitHub linkages, and authored comprehensive Brand Guidelines.
 
 ---
 
 ## 12. 📸 Evidence & Screenshots Gallery
 
 **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
-![CareerCraft Landing Page](./assets/screenshots/careercraft-landing-page.png)  
+<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/careercraft-landing-page.png" alt="CareerCraft Landing Page" width="100%">  
 *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
 
 **Figure 12.2:** Trello Product Backlog Management & Research Card  
-![Trello Product Backlog](./assets/screenshots/trello-product-backlog.png)  
+<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/trello-product-backlog.png" alt="Trello Product Backlog" width="100%">  
 *Demonstrates agile backlog grooming, task checklists, and research card management for South African job market trends.*
 
 **Figure 12.3:** Low-Fidelity UI Wireframes  
-![Low-Fidelity Wireframes](./assets/screenshots/low-fi-wireframes.png)  
+<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/low-fi-wireframes.png" alt="Low-Fidelity Wireframes" width="100%">  
 *Structural wireframe planning for user onboarding, profile setup, marketplace/portal navigation, and account settings.*
 
 **Figure 12.4:** High-Fidelity Mobile UI App Flow  
-![High-Fidelity Mobile Screens](./assets/screenshots/high-fi-mobile-screens.png)  
+<img src="https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/high-fi-mobile-screens.png" alt="High-Fidelity Mobile Screens" width="100%">  
 *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
 
 ---
