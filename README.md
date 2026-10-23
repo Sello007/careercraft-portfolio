@@ -31,19 +31,30 @@ This repository documents our complete project lifecycle, adhering strictly to A
 
 ## 1. 🛑 Problem Statement & Market Need
 
-South African students and graduates face a compounding disadvantage in the modern labor market: strong practical skills and academic degrees are routinely buried under poor, inconsistent, and fragmented career documentation.
+South African university graduates and diploma holders face a severe structural barrier when attempting to transition from higher education into the formal labor market. Despite spending years acquiring rigorous theoretical knowledge, technical qualifications, and practical project competencies, thousands of qualified candidates are routinely filtered out of corporate recruitment pipelines before securing a single interview. The primary underlying cause of this transition failure is a profound document optimization and digital formatting disconnect: while modern employers and recruitment agencies rely almost exclusively on automated Applicant Tracking Systems (ATS) to screen incoming applications, graduate career documentation is traditionally produced in static, unoptimized Microsoft Word or PDF formats. Because these documents fail to adhere to automated technical parsing standards, lack localized industry-specific keyword optimization, and contain unreadable structural layouts, an estimated 50% to 65% of candidate resumes are rejected automatically by algorithms before a human recruiter ever evaluates the applicant's actual capability.
+
+Furthermore, student career evidence remains deeply fragmented across isolated, disconnected platforms. A modern Information and Communication Technology (ICT) or engineering student generates rich professional artifacts across various ecosystems—maintaining code repositories on GitHub, managing task workflows on Trello, building professional networks on LinkedIn, and storing project documentation in local drives or cloud repositories. However, because there is no unified digital portal to synthesize these disparate signals into a single cohesive profile, candidates are forced to manually reconstruct their professional narratives from scratch for every single job application. This inefficient and repetitive process leads to severe application fatigue, inconsistent branding, and hastily formatted submissions that further diminish a candidate's chances of passing corporate ATS filters.
+
+This structural bottleneck is further exacerbated by the severe economic and institutional environment within South Africa. The national youth unemployment rate consistently exceeds 45%, placing intense pressure on tertiary-educated youth to secure immediate employment upon graduation. While global AI-driven resume optimization and career management platforms exist to solve these document formatting challenges, their subscription structures are priced in foreign currencies ($15 to $30 USD per month). For South African students living on NSFAS bursary allowances, government stipends, or limited household budgets, these international platforms are financially prohibitive. Additionally, foreign tools lack localization for the South African labor context, failing to account for National Qualifications Framework (NQF) alignments, local industry terminology, and regional workplace expectations.
+
+Finally, CareerCraft development centers across South African public higher education institutions face critical administrative capacity constraints. Small career advisory teams are tasked with serving tens of thousands of enrolled students across multiple campuses. Due to the sheer volume of manual resume reviews and walk-in consultations required daily, institutional career centers cannot offer personalized, real-time, iterative document feedback or AI-driven optimization at campus scale. As a result, South African graduates are left without an accessible, automated, or affordable mechanism to translate their academic qualifications and practical achievements into ATS-compliant, job-ready career documentation, leaving high-potential talent structurally invisible in an increasingly competitive national labor market.
 
 ### 📊 Key Market Pain Points:
 * **The Youth Employment Crisis:** South Africa suffers from a youth unemployment rate exceeding 45%, leaving nearly half of qualified young South Africans unable to secure employment.
 * **The ATS Filtering Barrier:** Over 60% of job application CVs are filtered out by automated Applicant Tracking Systems (ATS) before a human recruiter ever sees them due to poor formatting and lack of local keyword optimization.
-* **Fragmented Career Signals:** Student career evidence exists in disconnected silos—CV files on local drives, LinkedIn profiles, GitHub repositories, and AI chat logs—forcing candidates to rebuild their narrative from scratch for every application.
+* **Fragmented Career Signals:** Student career evidence exists in disconnected silos-CV files on local drives, LinkedIn profiles, GitHub repositories, and AI chat logs-forcing candidates to rebuild their narrative from scratch for every application.
 * **Institutional Administrative Overload:** University career centers absorb immense manual labor guiding thousands of students through repetitive CV correction cycles without scalable digital platforms.
 
 ---
 
 ## 2. 💡 Solution Architecture & Product Ecosystem
 
-CareerCraft replaces fragmented documentation with a single, verified reusable profile. Students build their career profile once, and the platform orchestrates recruiter-ready, ATS-optimized assets automatically.
+### Strategic Solution Overview
+CareerCraft solves the systemic graduate employability bottleneck by introducing a centralized, AI-orchestrated career engineering ecosystem designed explicitly for the South African labor market. Rather than forcing candidates to manually draft, format, and adapt isolated resume files for every job opening, CareerCraft introduces a single, verified, reusable digital career profile. Students aggregate their complete academic credentials, technical skills, practical project portfolios, and workplace competencies into one structured repository. Once established, the platform's intelligent engine automatically orchestrates, parses, and generates recruiter-ready, ATS-compliant application assets in seconds.
+
+At the core of the CareerCraft ecosystem is an advanced AI prompt orchestration layer paired with automated parsing algorithms that analyze real-time job specifications against the student’s centralized profile. The platform evaluates keyword density, aligns candidate achievements with local South African industry standards (including NQF frameworks), and outputs tailored CVs, customized cover letters, and optimized LinkedIn profiles designed specifically to bypass corporate Applicant Tracking Systems. By eliminating complex formatting errors, unreadable visual elements, and missing key phrases, CareerCraft ensures that student documentation achieves maximum technical visibility when evaluated by automated corporate HR software.
+
+Furthermore, CareerCraft bridges the financial accessibility gap by offering a localized, student-centric freemium model alongside an affordable R49 per month premium subscription. Designed specifically for South African tertiary students and young professionals reliant on NSFAS bursary allowances or limited budgets, CareerCraft provides enterprise-grade AI career tooling at a fraction of the cost of international platforms. By combining scalable continuous deployment hosted on Netlify with an intuitive web portal, CareerCraft empowers job seekers to continuously update their career evidence, eliminate application fatigue, and present their qualifications with absolute confidence.
 
 ### 🛠️ Core Modules:
 1. **My CV & AI Document Studio:** Instantly scans, scores, and rewrites CVs against local job descriptions using AI orchestration (OpenAI / Claude / Gemini).
@@ -189,6 +200,12 @@ Met with Livhuwani, Lerato, and Lwandile to refine Trello backlogs based on lect
 Presented initial dark-themed Figma prototype to lecturer. Received feedback that contrast was too dark and hard to read.
 
 Overhauled UI palette to a bright, accessible color scheme. Designed official brand logo, added Free Tier section, updated GitHub linkages, and authored comprehensive Brand Guidelines.
+
+### 🗓️ Phase 4: Functional Web App Deployment & Netlify Integration
+
+Successfully transitioned CareerCraft from static Figma designs to a fully functional, live Web Application hosted on Netlify (`careercraft-sa.netlify.app`). 
+
+Integrated core frontend navigation, responsive CTA hero sections ("Build My Career Profile", "Compare Plans"), dynamic branding tokens, and verified live cross-device accessibility. Configured Netlify continuous deployment pipelines linked directly to the primary GitHub repository branch to support real-time iterative updates.
 
 ---
 
