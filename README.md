@@ -192,19 +192,20 @@ Analyzed panel feedback; initiated research on South African youth unemployment 
 ## 12. 📸 Evidence & Screenshots Gallery
 
 **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
-![CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png)  
+! [CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png)  
 *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
 
 **Figure 12.2:** Trello Product Backlog Management & Research Card  
-![Trello Product Backlog](assets/screenshots/trello-product-backlog.png)  
+! [Trello Product Backlog](assets/screenshots/trello-product-backlog.png)  
 *Demonstrates agile backlog grooming, task checklists, and research card management for South African job market trends.*
 
 **Figure 12.3:** Low-Fidelity UI Wireframes  
-![Low-Fidelity Wireframes](assets/screenshots/low-fi-wireframes.png)  
+! [Low-Fidelity Wireframes](assets/screenshots/low-fi-wireframes.png)  
 *Structural wireframe planning for user onboarding, profile setup, marketplace/portal navigation, and account settings.*
 
 **Figure 12.4:** High-Fidelity Mobile UI App Flow  
-![High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png)  
+! [High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png)  
 *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
+
 ---
 *© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team. Cape Peninsula University of Technology (CPUT).*
