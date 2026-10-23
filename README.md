@@ -1,176 +1,207 @@
- 🚀 CareerCraft E-Portfolio 
+# 🚀 CareerCraft E-Portfolio | Comprehensive Professional Agile Project Record
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
-> **Author / Product Owner:** Makuks (Cape Peninsula University of Technology - DPICTA / PRP370S)  
-> **Execution Period:** July 2026 – October 2026
+> **Author / Agile Lead:** Sello Makunyane (CPUT - DPICTA / PRP370S)  
+> **Execution Period:** July 2026 – October 2026  
+> **Repository Owner:** Catalyst Youth Innovation Team  
 
 ---
 
-## 🌟 Executive Summary & Introduction
-Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal designed specifically to bridge the gap between education and employment for South African students and graduates. This repository documents our complete project lifecycle, adhering strictly to Agile methodologies, rigorous software engineering practices, and CPUT assessment standards.
+## 🌟 Executive Summary & Project Introduction
+Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal and AI-powered career ecosystem designed specifically to bridge the gap between academic graduation and professional employment for South African students and graduates. 
+
+This repository documents our complete project lifecycle, adhering strictly to Agile/Scrum methodologies, software engineering best practices, and Cape Peninsula University of Technology (CPUT) PRP370S assessment requirements. CareerCraft is not merely a document generator; it is a full-suite career operating system that eliminates career evidence fragmentation, elevates candidate visibility with local Applicant Tracking Systems (ATS), and scales university career services.
 
 ---
 
 ## 📑 Table of Contents
-1. [Agile Team Charter](#1-agile-team-charter)
-2. [User Stories and Tasks](#2-user-stories-and-tasks)
-3. [Product Backlog](#3-product-backlog)
-4. [Sprint Backlog](#4-sprint-backlog)
-5. [Agile Logbook (July – October 2026 Chronological Record)](#5-agile-logbook-july--october-2026-chronological-record)
+1. [Problem Statement & Market Need](#1-problem-statement--market-need)
+2. [Solution Architecture & Product Ecosystem](#2-solution-architecture--product-ecosystem)
+3. [Agile Team Charter & Governance](#3-agile-team-charter--governance)
+4. [User Stories and Task Breakdowns](#4-user-stories-and-task-breakdowns)
+5. [Master Product Backlog](#5-master-product-backlog)
+6. [Active Sprint Backlog & Iteration Planning](#6-active-sprint-backlog--iteration-planning)
+7. [Business Model Canvas & Commercialization](#7-business-model-canvas--commercialization)
+8. [Go-to-Market Strategy & Strategic Roadmap](#8-go-to-market-strategy--strategic-roadmap)
+9. [Technology Stack, Infrastructure & Security](#9-technology-stack-infrastructure--security)
+10. [Investment Ask & Fund Allocation](#10-investment-ask--fund-allocation)
+11. [Agile Logbook (July – October 2026 Chronological Record)](#11-agile-logbook-july--october-2026-chronological-record)
+12. [Evidence & Screenshots Gallery](#12-evidence--screenshots-gallery)
 
 ---
 
-## 1. 🤝 Agile Team Charter
+## 1. 🛑 Problem Statement & Market Need
 
-### 🎯 Project Overview & Vision
-* **Vision Statement:** To bridge the gap between education and employment by empowering South African students and graduates with an all-in-one digital career engineering portal for profile creation, career navigation, and professional storytelling.
-* **Mission Statement:** Deliver a robust, mobile-optimized, and secure web platform that simplifies career development, provides transparent pricing tiers, and equips users with precision tools to showcase their professional competencies.
+South African students and graduates face a compounding disadvantage in the modern labor market: strong practical skills and academic degrees are routinely buried under poor, inconsistent, and fragmented career documentation.
 
-### ⚖️ Core Team Operating Norms & Values
-1. **Radical Transparency:** All project artifacts, code versions, and documentation are shared openly. "No surprises"—blockers or technical bottlenecks are flagged immediately during stand-ups.
-2. **Synchronous Prioritization:** Daily stand-up synchronization focuses strictly on three pillars: What was completed yesterday, what is planned for today, and what impediments exist.
-3. **Sustainable Pace:** Maintaining a disciplined workflow to balance rigorous third-year ICT coursework and exam schedules with high technical output.
-4. **Iterative Learning:** Every sprint concludes with a retrospective to analyze successes, bottlenecks, and areas for continuous improvement.
+### 📊 Key Market Pain Points:
+* **The Youth Employment Crisis:** South Africa suffers from a youth unemployment rate exceeding 45%, leaving nearly half of qualified young South Africans unable to secure employment.
+* **The ATS Filtering Barrier:** Over 60% of job application CVs are filtered out by automated Applicant Tracking Systems (ATS) before a human recruiter ever sees them due to poor formatting and lack of local keyword optimization.
+* **Fragmented Career Signals:** Student career evidence exists in disconnected silos—CV files on local drives, LinkedIn profiles, GitHub repositories, and AI chat logs—forcing candidates to rebuild their narrative from scratch for every application.
+* **Institutional Administrative Overload:** University career centers absorb immense manual labor guiding thousands of students through repetitive CV correction cycles without scalable digital platforms.
+
+---
+
+## 2. 💡 Solution Architecture & Product Ecosystem
+
+CareerCraft replaces fragmented documentation with a single, verified reusable profile. Students build their career profile once, and the platform orchestrates recruiter-ready, ATS-optimized assets automatically.
+
+### 🛠️ Core Modules:
+1. **My CV & AI Document Studio:** Instantly scans, scores, and rewrites CVs against local job descriptions using AI orchestration (OpenAI / Claude / Gemini).
+2. **LinkedIn & GitHub Portfolio Optimizer:** Optimizes headline keywords and embeds live developer project portfolios.
+3. **ATS Engine:** Benchmark scoring with real-time feedback, gap analysis, and tailored rewrites.
+4. **Job Tracker & Dashboard:** Enables real-time application tracking, status reminders, and performance analytics.
+
+---
+
+## 3. 🤝 Agile Team Charter & Governance
+
+### 🎯 Team Mission & Vision
+* **Vision Statement:** Bridge the experience and employment gap for South African graduates by providing an integrated, AI-driven career engineering suite.
+* **Mission:** Deliver a mobile-optimized, secure web portal that simplifies career document creation, provides transparent Rand (ZAR) pricing, and connects graduates directly to opportunities.
+
+### ⚖️ Working Agreements & Core Values
+1. **Daily Stand-ups:** Synchronize daily at 09:00 for 15 minutes (Tasks completed, planned work, blockers).
+2. **Radical Transparency:** Shared Trello product backlogs, open repositories, and early risk escalation.
+3. **Quality & Definition of Done (DoD):** CV templates and AI prompts must be ATS-compatible, documented, ZAR-priced, and accepted by the Product Owner.
+4. **Response Expectations:** 4-hour response window during core business hours via Teams and WhatsApp.
 
 ### 👥 Personnel Roles & RACI Matrix
-| Project Task | Product Owner (Makuks) | Lead Frontend Dev | UI/UX & Branding | QA & Community Liaison |
+
+| Project Task | Product Owner (Livhuwani) | Agile Lead (Sello) | Developer / Analyst (Lwandile) | QA / Liaison (Lerato) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Project Plan & Charter** | A / R | C | C | I |
-
-| **UI Layouts & Netlify Deployment** | A | R | C | I |
-
-| **User Profile & Authentication** | A | R | I | C |
-
-| **Investor Pitch & Deliverables** | A / R | C | R | C |
-
-| **MVP Student Testing & Validation** | A | I | I | R |
+| **Project Vision & Charter** | A / R | C | C | I |
+| **UI/UX Design & Brand Guidelines** | A | C | R | C |
+| **Frontend & API Integration** | A | C | R | C |
+| **Investor Pitch & Presentation** | A | C | R | C |
+| **Usability Testing & Campus Pilots** | A | C | I | R |
 
 *(Role Legend: A = Accountable, R = Responsible, C = Consulted, I = Informed)*
 
-### 🔍 Critical Reflection on Team Charter
-Establishing this charter early in the semester provided essential structure for our team. Balancing third-year ICT coursework and exam schedules with active development required strict adherence to our sustainable pace norm. When communication bottlenecks arose during pitch week preparations in July, our commitment to radical transparency allowed us to quickly reassign speaking roles and leverage peer support effectively.
-
-> **[📸 Insert Screenshot Here: Team Trello Board or Collaboration Setup]**  
-> *Figure 1.1: Snapshot of our Agile team collaboration channels and task boards.*
-
 ---
 
-## 2. 📝 User Stories and Tasks
+## 4. 📝 User Stories and Task Breakdowns
 
 ### 📋 Epic 1: Core Portal Architecture & Hosting Setup
-* **User Story 1.1:** As a site visitor, I want to land on a fast, responsive, and professionally branded homepage so that I immediately understand CareerCraft's value proposition.
-  * **Acceptance Criteria:** Landing page loads in under 2 seconds; clear call-to-action buttons for signing up and comparing pricing.
+* **User Story 1.1:** As a job-seeking graduate, I want to land on a fast, responsive homepage so that I can easily understand CareerCraft's ATS optimization value.
+  * **Acceptance Criteria:** Page load < 2 seconds; bright accessible design scheme; clear CTA for free ATS check.
   * **Tasks:**
-    * Develop semantic HTML5 / CSS layout with Tailwind styling.
-    * Configure continuous deployment pipeline targeting Netlify (`careercraft-sa.netlify.app`).
-    * Implement clean product logo and responsive navigation menus.
+    * Design responsive Tailwind CSS layouts.
+    * Deploy continuous deployment pipeline on Netlify (`careercraft-sa.netlify.app`).
+    * Integrate functional GitHub repository links and official brand logo.
 
-* **User Story 1.2:** As a new user, I want to sign up securely with my credentials so that I can establish a private workspace.
-  * **Acceptance Criteria:** Email format and password strength validation; secure token storage.
+* **User Story 1.2:** As a registered user, I want to upload my CV and job description to receive an immediate ATS score and rewrite suggestions.
+  * **Acceptance Criteria:** Real-time scoring out of 100 with skill-gap keyword highlights.
   * **Tasks:**
-    * Build frontend forms for `/signup` and `/login` routes.
-    * Establish backend authentication endpoints and database linkages.
-
-### 📋 Epic 2: Profile Management & Membership Tiers
-* **User Story 2.1:** As a registered user, I want to edit my professional profile (`/profile`) so that my career goals, education history, and core skills are accurately stored.
-  * **Acceptance Criteria:** Form inputs retain state across sessions; successful save confirmation message displayed to the user.
-  * **Tasks:**
-    * Design `/profile` form UI supporting rich text entries.
-    * Implement data persistence routines to connect form inputs to cloud storage.
-    * Handle edge cases for incomplete profile fields.
-
-* **User Story 2.2:** As a student user, I want to compare membership options (Free, Starter, Pro) so that I can select the appropriate level of career support.
-  * **Acceptance Criteria:** Pricing page (`/pricing`) clearly outlines features, limitations, and upgrade paths.
-  * **Tasks:**
-    * Code responsive pricing tier comparison cards.
-    * Link tier selection buttons directly to user upgrade onboarding workflows.
-
-### 🔍 Critical Reflection on User Stories
-Decomposing the platform into precise user stories with testable acceptance criteria kept development focused. Rather than attempting to build all features simultaneously, prioritizing core authentication and profile persistence first ensured our MVP remained stable and functional before moving on to advanced modules.
-
-> **[📸 Insert Screenshot Here: Live Netlify Web App Interface - careercraft-sa.netlify.app]**  
-> *Figure 2.1: The deployed CareerCraft landing page showing responsive design and navigation.*
+    * Build file upload dropzones supporting PDF/DOCX formats.
+    * Establish API layer connection to AI orchestration engine.
 
 ---
 
-## 3. 📊 Product Backlog (July – October 2026)
+## 5. 📊 Master Product Backlog
 
-| Backlog ID | Feature / Epic Description | Priority | Current Status | Story Points | Target Milestone |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **PB-01** | Landing page responsive design & Netlify deployment | High | Completed | 5 | July 2026 |
-| **PB-02** | Investor-style pitch deck preparation & delivery | High | Completed | 5 | Mid-July 2026 |
-| **PB-03** | User Sign-Up & Login authentication flows (`/signup`, `/login`) | High | Completed | 8 | Late-July 2026 |
-| **PB-04** | Pricing page & membership tier comparison (`/pricing`) | Medium | Completed | 3 | August 2026 |
-| **PB-05** | User Profile data persistence & form state handling (`/profile`) | High | In Progress | 8 | August-September 2026 |
-| **PB-06** | MVP validation testing with real student cohorts | Medium | In Progress | 8 | September 2026 |
-| **PB-07** | Advanced CV template builder & export module | High | To Do | 13 | October 2026 |
-| **PB-08** | Institutional partner dashboard integration | Low | To Do | 8 | Post-October 2026 |
-
-### 🔍 Critical Reflection on Product Backlog
-Managing the backlog as a living document allowed us to adapt effectively to changing academic requirements and user feedback. For instance, prioritizing MVP validation testing (PB-06) after the July pitch enabled us to gather real-world student insights that directly shaped our October CV builder roadmap.
-
-> **[📸 Insert Screenshot Here: Product Backlog View in Trello or GitHub Projects]**  
-> *Figure 3.1: Overview of our master backlog tracking and item estimations.*
+| Backlog ID | Feature / Epic Description | Priority | Status | Story Points | Target Milestone | Owner |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **PB-01** | Landing page responsive design & Netlify deployment | High | Completed | 5 | July 2026 | Sello |
+| **PB-02** | Investor pitch deck & business plan formulation | High | Completed | 5 | Mid-July 2026 | Lwandile / Livhuwani |
+| **PB-03** | UI Prototyping & accessible light-mode redesign in Figma | High | Completed | 8 | Late-July 2026 | Sello / Lerato |
+| **PB-04** | Brand Identity Guidelines & Logo Design | Medium | Completed | 3 | Early-August 2026 | Lerato |
+| **PB-05** | Free Tier onboarding & subscription logic integration | High | Completed | 5 | Mid-August 2026 | Sello |
+| **PB-06** | AI Engine & ATS Scoring API Integration | High | In Progress | 13 | September 2026 | Lwandile |
+| **PB-07** | Student Cohort Usability Pilots (30–50 students) | Medium | In Progress | 8 | Late-September 2026 | Lerato |
+| **PB-08** | Institutional Partner Admin Dashboard Integration | Low | To Do | 8 | Post-October 2026 | Livhuwani |
 
 ---
 
-## 4. 🏃‍♂️ Active Sprint Backlog & Iteration Planning
+## 6. 🏃‍♂️ Active Sprint Backlog & Iteration Planning
 
-* **Sprint Focus:** Profile state persistence refinement, MVP feedback incorporation, and preparation for advanced CV template integration.
-* **Sprint Duration:** 2 Weeks (Mid-October 2026 Cycle)
+* **Sprint Goal:** Finalize profile state persistence, complete ATS scoring verification, and refine brand guidelines.
+* **Sprint Cycle:** Sprint 6 (2-Week Cycle)
 
 | Task ID | Task Description | Assignee | Status | Effort Estimate |
 | :--- | :--- | :--- | :--- | :--- |
-| **T-201** | Refine `/profile` form input state handling and error alerts | Frontend Team | In Progress | 3 pts |
-| **T-202** | Conduct session persistence tests across multiple browser instances | QA / Testing | To Do | 2 pts |
-| **T-203** | Aggregate student feedback from September MVP testing sessions | Community Liaison | Completed | 5 pts |
-| **T-204** | Audit Netlify deployment headers and security configurations | DevOps | Completed | 1 pt |
-| **T-205** | Outline database schema requirements for the CV builder module | Backend Dev | To Do | 5 pts |
-
-### 🔍 Critical Reflection on Sprint Backlog
-Time-boxing our work into two-week iterations maintained continuous momentum. Breaking large epic features into manageable 1-to-5-point tasks ensured clear accountability and allowed us to track velocity accurately across busy university semesters.
-
-> **[📸 Insert Screenshot Here: Active Sprint Board / Kanban Board]**  
-> *Figure 4.1: Active sprint task board showing items in progress and completed.*
+| **T-201** | Refine `/profile` form input state handling and error alerts | Lwandile | In Progress | 3 pts |
+| **T-202** | Conduct cross-browser session persistence tests | Lerato | To Do | 2 pts |
+| **T-203** | Aggregate feedback from campus pilot testing | Lerato | Completed | 5 pts |
+| **T-204** | Audit Netlify deployment security and CORS headers | Sello | Completed | 1 pt |
+| **T-205** | Finalize database schema for CV template export module | Lwandile | To Do | 5 pts |
 
 ---
 
-## 5. 📖 Agile Logbook (July – October 2026 Chronological Record)
+## 7. 💼 Business Model Canvas & Commercialization
 
-### 🗓️ Phase 1: Pitch Week & Initial Deliverable Push (Mid-July 2026)
-* **Date: 14 July 2026 (Tuesday)**
-  * **Completed:** Facilitated sprint planning for pitch week; reviewed the 16-slide investor deck structure (problem, market, business model, financials) with Livhuwani; confirmed team speaking roles.
-  * **Plan:** Draft speaker notes and talking points for personal presentation sections; finalize rehearsal schedules.
-  * **Impediments & Resolution:** Initial lack of advanced design tools for a polished PowerPoint aesthetic; resolved by consulting a senior 4th-year IT student for slide design tips.
-
-* **Date: 15 July 2026 (Wednesday)**
-  * **Completed:** Successfully delivered the CareerCraft investor-style pitch to the assessment panel (presented by Lwandile at 14:30) with full team backing on timing cues and slide checks.
-  * **Plan:** Analyze panel feedback to identify gaps in Deliverable 2; initiate secondary competitor validation research.
-  * **Impediments & Resolution:** Home network instability during the online presentation session; mitigated by relocating to the campus IT lab for a reliable connection.
-
-* **Date: 16 July 2026 (Thursday)**
-  * **Completed:** Reviewed formal panel feedback; initiated deep-dive research into South African youth unemployment statistics and competing career-guidance platforms.
-  * **Plan:** Verify market opportunity statistics; benchmark CareerCraft against existing solutions to strengthen the business plan revision.
-  * **Impediments & Resolution:** Encountered paywalls and outdated datasets when searching for specific employment figures, requiring extra verification steps.
-
-* **Date: 17 July 2026 (Friday)**
-  * **Completed:** Consolidated weekly research findings into formal notes for the Deliverable 2 revision; hosted a team retrospective to analyze pitch strengths and areas for workflow refinement.
-  * **Plan:** Update the product backlog with follow-up MVP validation testing items; await official grading feedback from the lecture panel.
-  * **Impediments & Resolution:** None pending official assessment scores.
-
-### 🗓️ Phase 2: MVP Validation & Feature Expansion (August – September 2026)
-* **Sprint Review & Retrospective Highlights:**
-  * Focused heavily on bridging frontend views (`/pricing`, `/profile`) with backend user state persistence. Coordinated with university career centres and student volunteers to run pilot testing on core portal navigation. Addressed minor state-management bottlenecks in profile editing forms, ensuring smoother data entry for student users. Conducted extensive performance benchmarks on database response times during peak authentication loads.
-
-### 🗓️ Phase 3: Final Polish & Portfolio Consolidation (October 2026)
-* **Status Review & Semester Completion:**
-  * Netlify deployment operating stably at `careercraft-sa.netlify.app`. Core navigation, pricing comparisons, and login/signup flows fully operational. Finalized documentation and structured markdown files for GitHub Pages submission to meet CPUT PRP370S requirements. Performed final security audits and code refactoring to prepare for institutional handover.
-
-### 🔍 Overall Logbook Reflection
-Maintaining this chronological logbook transformed daily challenges—such as connectivity glitches during online presentations, research paywalls, and scope adjustments—into valuable learning opportunities. Documenting our retrospectives ensured that our team continuously adapted its processes, resulting in a robust, production-ready portfolio.
-
-> **[📸 Insert Screenshot Here: GitHub Pages Live Portfolio Rendering]**  
-> *Figure 5.1: Final published GitHub Pages documentation site view.*
+### 🧩 Business Model Canvas Breakdown
+* **Key Partners:** OpenAI / Anthropic API providers, University Career Services, SRCs, Campus Ambassadors, Cloud Hosting (AWS/Netlify).
+* **Value Proposition:** Full-suite, SA-localized AI career tools (CV + LinkedIn + Cover Letter) delivering ATS-optimized assets in under 5 minutes at R49/month.
+* **Customer Segments:** Primary: SA university students (~1.02M); Secondary: Recent graduates (0–2 yrs, ~563K); Tertiary: University career centers.
+* **Revenue Streams:**
+  * **Free Tier:** R0 (Basic ATS check, 1 optimization/mo).
+  * **Premium B2C:** R49/month (Unlimited optimizations, cover letters, LinkedIn rewrites).
+  * **Pro Tier:** R99/month (GitHub portfolio tools, personal branding, priority matching).
+  * **B2B Enterprise:** Campus-wide licensing contracts for university career portals.
 
 ---
-*© 2026 CareerCraft South Africa & Cape Peninsula University of Technology (CPUT). Professional Academic Portfolio.*
-](https://canva.link/m7q8jknwttzfiiu)
+
+## 8. 📈 Go-to-Market Strategy & Strategic Roadmap
+
+* **Campus Ambassador Network:** Deploying student influencers across 3–5 university campuses to drive organic word-of-mouth adoption via WhatsApp groups and TikTok CV transformations.
+* **Institutional Partnerships:** Partnering directly with university career centers to embed CareerCraft into graduate readiness modules.
+* **Target Reach:** 100,000 graduates employed by 2030.
+
+---
+
+## 9. 🛡️ Technology Stack, Infrastructure & Security
+
+* **Frontend:** React, HTML5, Tailwind CSS, hosted on Netlify continuous deployment.
+* **Backend & API Layer:** REST API, Node.js, Cloud Hosting (AWS / GCP / Netlify Functions).
+* **Database & File Storage:** Supabase (PostgreSQL with Row-Level Security), AWS S3 for secure CV uploads.
+* **AI Orchestration:** OpenAI API / Claude / Google Gemini integration for prompt engineering and ATS analysis.
+* **Security & Compliance:** HTTPS/TLS encryption, JWT authentication, Role-Based Access Control (RBAC), and full compliance with the South African Protection of Personal Information Act (POPIA).
+
+---
+
+## 10. 💰 Investment Ask & Fund Allocation
+
+CareerCraft is seeking **R500,000 in Seed Funding** to scale from a validated MVP into a nationally distributed career ecosystem across South Africa.
+
+### 💵 Seed Capital Allocation:
+* **35%** – Engineering, Security Infrastructure & AI API Scaling
+* **25%** – Campus Pilots & User Research
+* **20%** – Go-To-Market, Marketing & Campus Ambassadors
+* **10%** – Operations, Legal & POPIA Compliance
+* **10%** – Contingency Reserve
+
+---
+
+## 11. 📖 Agile Logbook (July – October 2026 Chronological Record)
+
+### 🗓️ Phase 1: Pitch Deck & Deliverable Push (14–17 July 2026)
+* **14 July 2026 (Tuesday):** Facilitated sprint planning; reviewed 16-slide investor deck structure with Livhuwani; assigned presentation section ownership. *Impediment:* Lacked slide design skills; consulted a senior 4th-year IT student for design guidance.
+* **15 July 2026 (Wednesday):** Delivered investor pitch to panel at 14:30 (presented by Lwandile with team support). *Impediment:* Home network instability forced team to use campus IT labs.
+* **16 July 2026 (Thursday):** Analyzed panel feedback; initiated research on South African youth unemployment metrics. *Impediment:* Research paywalls slowed data verification.
+* **17 July 2026 (Friday):** Consolidated research notes for Deliverable 2; conducted retrospective on pitch delivery.
+
+### 🗓️ Phase 2: Backlog Refinement & Trello Setup (21–24 July 2026)
+* **21–24 July 2026:** Met with Livhuwani, Lerato, and Lwandile to refine Trello backlogs based on lecturer feedback. Reorganized user stories, updated task priorities, and confirmed ownership assignments across the team.
+
+### 🗓️ Phase 3: Prototyping & Accessible Redesign (28–31 July & 4–7 August 2026)
+* **29 July 2026:** Presented initial dark-themed Figma prototype to lecturer. Received feedback that contrast was too dark and hard to read.
+* **30 July – 4 August 2026:** Overhauled UI palette to a bright, accessible color scheme. Designed official brand logo, added Free Tier section, updated GitHub linkages, and authored comprehensive Brand Guidelines.
+
+---
+
+## 12. 📸 Evidence & Screenshots Gallery
+
+* **Figure 12.1:** Live Web Application Deployment (`careercraft-sa.netlify.app`)  
+  `![Netlify Live App](assets/screenshots/netlify-deployment.png)`
+
+* **Figure 12.2:** Trello Product Backlog & Research Sprint Setup  
+  `![Trello Board](assets/screenshots/trello-backlog.png)`
+
+* **Figure 12.3:** Bright Accessible Figma UI & Brand Guidelines Prototype  
+  `![Figma Design](assets/screenshots/figma-bright-prototype.png)`
+
+* **Figure 12.4:** Published GitHub Pages Documentation View  
+  `![GitHub Pages](assets/screenshots/github-pages-live.png)`
+
+---
+*© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team. Cape Peninsula University of Technology (CPUT).*
