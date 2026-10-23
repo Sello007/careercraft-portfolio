@@ -192,19 +192,19 @@ Analyzed panel feedback; initiated research on South African youth unemployment 
 ## 12. 📸 Evidence & Screenshots Gallery
 
 **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
-! [CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png)  
+<img src="assets/screenshots/careercraft-landing-page.png" alt="CareerCraft Landing Page" width="100%">  
 *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
 
 **Figure 12.2:** Trello Product Backlog Management & Research Card  
-! [Trello Product Backlog](assets/screenshots/trello-product-backlog.png)  
+<img src="assets/screenshots/trello-product-backlog.png" alt="Trello Product Backlog" width="100%">  
 *Demonstrates agile backlog grooming, task checklists, and research card management for South African job market trends.*
 
 **Figure 12.3:** Low-Fidelity UI Wireframes  
-! [Low-Fidelity Wireframes](assets/screenshots/low-fi-wireframes.png)  
+<img src="assets/screenshots/low-fi-wireframes.png" alt="Low-Fidelity Wireframes" width="100%">  
 *Structural wireframe planning for user onboarding, profile setup, marketplace/portal navigation, and account settings.*
 
 **Figure 12.4:** High-Fidelity Mobile UI App Flow  
-! [High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png)  
+<img src="assets/screenshots/high-fi-mobile-screens.png" alt="High-Fidelity Mobile Screens" width="100%">  
 *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
 
 ---
