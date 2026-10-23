@@ -1,6 +1,6 @@
 # 🚀 CareerCraft E-Portfolio 
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
-> **Author / Agile Lead:** Sello Makunyane (CPUT - DPICTA / PRP370S)  
+> **Agile Lead:** Sello Den Makunyane  
 > **Execution Period:** July 2026 – October 2026  
 > **Repository Owner:** Sello007  
 
