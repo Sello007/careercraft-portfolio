@@ -236,4 +236,4 @@ Integrated core frontend navigation, responsive CTA hero sections ("Build My Car
 *Outlines CareerCraft's core value propositions, South African market customer segments, cost structures, and sustainable R49/month revenue streams.*
 
 ---
-*© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team. Cape Peninsula University of Technology (CPUT).*
+*© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team.*
