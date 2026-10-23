@@ -145,7 +145,7 @@ CareerCraft replaces fragmented documentation with a single, verified reusable p
 
 * **Campus Ambassador Network:** Deploying student influencers across 3–5 university campuses to drive organic word-of-mouth adoption via WhatsApp groups and TikTok CV transformations.
 * **Institutional Partnerships:** Partnering directly with university career centers to embed CareerCraft into graduate readiness modules.
-* **Target Reach:** 100,000 graduates employed by 2030.
+* **Target Reach:** 50,000 graduates employed by 2030.
 
 ---
 
@@ -209,6 +209,14 @@ Overhauled UI palette to a bright, accessible color scheme. Designed official br
 **Figure 12.4:** High-Fidelity Mobile UI App Flow  
 ![High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png.png)  
 *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
+
+**Figure 12.5:** End-to-End Solution Architecture Diagram  
+![Solution Architecture](assets/screenshots/solution-architecture.png.png)  
+*Details the technical architecture, AI orchestration layer (OpenAI/Anthropic integration), job matching engine, and cross-cutting security layers.*
+
+**Figure 12.6:** Business Model Canvas Strategy  
+![Business Model Canvas](assets/screenshots/business-model-canvas.png.png)  
+*Outlines CareerCraft's core value propositions, South African market customer segments, cost structures, and sustainable R49/month revenue streams.*
 
 ---
 *© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team. Cape Peninsula University of Technology (CPUT).*
