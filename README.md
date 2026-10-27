@@ -213,6 +213,11 @@ Integrated core frontend navigation, responsive CTA hero sections ("Build My Car
 
 ## 12. 📸 Evidence & Screenshots Gallery
 
+
+* 📄 [Agile Team Charter](assets/screenshots/Agile%20Team%20Charter.pdf)
+* 📊 [Sprint 3 & 4 Logbook](assets/screenshots/CareerCraft_Logbook_14-24_July_2026.pdf)
+* 📈 [Sprint 5 Logbook](assets/screenshots/CareerCraft_Logbook_Week5_4-7_Aug_2026.pdf)
+
 **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
 ![CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png.png)  
 *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
