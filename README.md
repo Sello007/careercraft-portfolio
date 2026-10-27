@@ -2,7 +2,12 @@
 > **Platform URL:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
 > **Agile Lead:** Sello Den Makunyane  
 > **Execution Period:** July 2026 – October 2026  
-> **Repository Owner:** Sello007  
+> **Repository Owner:** Sello007
+# 🚀 CareerCraft SA — AI-Powered Career Engineering Portal
+
+> 🌐 **Developer Hub:** [sello007.github.io](https://sello007.github.io/)  
+> 🚀 **Live Application:** [careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)  
+> 👨‍💻 **Author / Agile Lead:** Sello Makunyane (CPUT - DPICTA / PRP370S)
 
 ---
 
