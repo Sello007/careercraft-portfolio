@@ -214,7 +214,7 @@ Integrated core frontend navigation, responsive CTA hero sections ("Build My Car
 ## 12. 📸 Evidence & Screenshots Gallery
 
 
-* 📄 [Agile Team Charter](Agile Team Charter(1).pdf)
+* 📄 [Agile Team Charter](assets/screenshots/Agile%20Team%20Charter%20(1).pdf)
 * 📊 [Sprint 3 & 4 Logbook](assets/screenshots/CareerCraft_Logbook_14-24_July_2026.pdf)
 * 📈 [Sprint 5 Logbook](assets/screenshots/CareerCraft_Logbook_Week5_4-7_Aug_2026.pdf)
 
