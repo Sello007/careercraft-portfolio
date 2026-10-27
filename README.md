@@ -4,7 +4,7 @@
 > **Execution Period:** July 2026 – October 2026  
 > **Repository Owner:** Sello007
 <h2 align="center">
-> 🌐 **Developer Hub:** [sello007.github.io](https://sello007.github.io/)  
+🌐 **Developer Hub:** [sello007.github.io](https://sello007.github.io/)  
 </h2>
 
 ---
