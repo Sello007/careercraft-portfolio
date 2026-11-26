@@ -7,6 +7,14 @@
 
 
 ---
+## 🚀 Featured Capstone Project
+
+* [CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/) — Comprehensive CPUT PRP370S Capstone Documentation & Solution Architecture.
+* [Trello Link](https://trello.com/invite/b/69f77f11044ac5bb3870ce99/ATTI8cb0e82e49b78ca3fec0eac572c4d35db5344AF5/careercraft) — Product Backlog
+* [Live App Platform](https://careercraft-sa.netlify.app) — Interactive Web Application hosted on Netlify.
+
+---
+
 
 ## 🌟 Executive Summary & Project Introduction
 Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal and AI-powered career ecosystem designed specifically to bridge the gap between academic graduation and professional employment for South African students and graduates. 
